@@ -21,7 +21,7 @@ codex plugin marketplace upgrade eaglstun
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [`beaglebros`](plugins/beaglebros/) | Warm, witty, user-respecting product voice for docs, CLI/UI copy, error messages, and design gut checks, after the 1980s Apple II software house. | [eaglstun/skill-beaglebros](https://github.com/eaglstun/skill-beaglebros) |
 
-Each plugin under `plugins/` is a vendored copy of a tagged release from its source
+Each plugin under `plugins/` is a vendored copy of a release from its source
 repository. Fix things upstream, not here.
 
 ## License
