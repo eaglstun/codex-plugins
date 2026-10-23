@@ -82,7 +82,20 @@ For plugin development, load the repository root directly:
 claude --plugin-dir .
 ```
 
-Marketplace installation instructions will be added when listings are live.
+## Install from a marketplace
+
+**Codex**, from the [eaglstun/codex-plugins](https://github.com/eaglstun/codex-plugins)
+marketplace:
+
+```sh
+codex plugin marketplace add eaglstun/codex-plugins --ref main
+codex plugin add beaglebros@eaglstun
+```
+
+Run `codex plugin marketplace upgrade eaglstun` to pick up new versions.
+
+**Claude**: the plugin is submitted to Anthropic's directory and waiting on review. Install
+instructions will go here once it is listed. Until then, use the local install above.
 
 ## Repository layout
 
