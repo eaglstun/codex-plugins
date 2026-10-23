@@ -1,0 +1,40 @@
+{
+  "name": "beaglebros",
+  "version": "1.0.0",
+  "description": "Bring the warm, witty, user-respecting Beagle Bros sensibility to documentation, product copy, and design.",
+  "author": {
+    "name": "Eric Eaglstun",
+    "url": "https://github.com/eaglstun"
+  },
+  "homepage": "https://github.com/eaglstun/skill-beaglebros",
+  "repository": "https://github.com/eaglstun/skill-beaglebros",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "documentation",
+    "product-copy",
+    "voice",
+    "retro-computing",
+    "apple-ii"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Beagle Bros",
+    "shortDescription": "Warm, witty, user-respecting product voice",
+    "longDescription": "Write and design with the generous, irreverent, demystify-the-machine sensibility of the 1980s Apple II software house Beagle Bros. Useful for documentation, release notes, CLI and UI copy, error messages, naming, retro visual direction, and product-design gut checks.",
+    "developerName": "Eric Eaglstun",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://github.com/eaglstun/skill-beaglebros",
+    "defaultPrompt": [
+      "Give this README the Beagle Bros touch",
+      "Write a warm, useful error message",
+      "Would Beagle Bros ship this?"
+    ],
+    "brandColor": "#8B2E24"
+  }
+}

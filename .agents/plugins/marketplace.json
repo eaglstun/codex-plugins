@@ -1,0 +1,20 @@
+{
+  "name": "eaglstun",
+  "interface": {
+    "displayName": "Eric Eaglstun"
+  },
+  "plugins": [
+    {
+      "name": "beaglebros",
+      "source": {
+        "source": "local",
+        "path": "./plugins/beaglebros"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

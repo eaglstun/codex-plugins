@@ -1,0 +1,7 @@
+interface:
+  display_name: "Beagle Bros"
+  short_description: "Warm, witty, user-respecting product voice"
+  default_prompt: "Use $beaglebros to give this copy the Beagle Bros touch without losing substance."
+
+policy:
+  allow_implicit_invocation: true
